@@ -1,0 +1,1 @@
+# 1.-Write-a-C-Program-to-Write-a-Sentence-to-a-File
